@@ -49,12 +49,6 @@ a {
   }
 }
 
-@media screen and (max-width:900px){
-  .copyright{
-    display:none !important;
-  }
-}
-
 @media screen and (max-width: 600px) {
   .scroll-horizontal {
     overflow: auto !important;
