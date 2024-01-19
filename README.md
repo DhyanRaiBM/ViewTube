@@ -18,8 +18,10 @@ ViewTube is a modern video player built with React, styled using Emotion and Mat
   
 - **Channel Search**: Search for a particular channel to access and explore its video content.
 
+ 
 
+**Note:** 
 
-**Note:** The site may take some time to load, so please wait up to 1 minute.
+  The site may take some time to load, so please wait up to 1 minute.
 
-**Note:** SneaX is deployed on Netlify. Explore the live demo of SneaX here. [Live Demo](https://viewtube-dhyan.netlify.app/).
+  SneaX is deployed on Netlify. Explore the live demo of SneaX here. [Live Demo](https://viewtube-dhyan.netlify.app/).
