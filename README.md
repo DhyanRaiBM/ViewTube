@@ -24,4 +24,4 @@ ViewTube is a modern video player built with React, styled using Emotion and Mat
 
   The site may take some time to load, so please wait up to 1 minute.
 
-  ViewTube is deployed on Netlify. Explore the live demo of SneaX here. [Live Demo](https://viewtube-dhyan.netlify.app/).
+  ViewTube is deployed on Netlify. Explore the live demo of ViewTube here. [Live Demo](https://viewtube-dhyan.netlify.app/).
